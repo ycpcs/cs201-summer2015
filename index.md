@@ -23,4 +23,5 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 
 ## News
 
-* **May 19** - Welcome!
+* **May 18** - All of the labs and assignments for the semester have been posted on the [Labs](labs/index.html) and [Assignments](assign/index.html) pages.
+* **May 18** - Welcome!
