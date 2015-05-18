@@ -36,7 +36,7 @@ We will use the Eclipse IDE for labs and programming assignments in Java. This i
 
 In-class quizzes will be given frequently, typically at the beginning of class. Up to two missed quizzes will be forgiven. Quizzes may not be made up.
 
-There will be three midterm exams given in class, dates/times to be announced. A scheduled final exam will be given (see the [Final Exam Schedule](http://www.ycp.edu/academics/final-exam-schedules/)).
+There will be three midterm exams and one comprehensive final exam.  The dates are shown in the [Schedule](schedule.html).
 
 We will be covering a significant amount of material in the course, and it is very important that you keep up. If you have any questions, please ask me in class, office hours, or through email. I'm here to help!
 
@@ -75,7 +75,7 @@ Grades are assigned on a 100-point scale:
 Your overall grade for the course will be determined as follows:
 
 -   Homework and programming assignments: 25%
--   Exams (3 midterm exams and 1 cumulative final): 60%
+-   Exams (3 midterm exams and 1 comprehensive final exam): 60%
 -   Quizzes and attendance/participation: 15%
 
 ### Course website
