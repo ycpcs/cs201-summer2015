@@ -14,7 +14,7 @@ announced in class and on the course web page.
 > Week 4 (June 8&ndash;12) | [Lecture 10: Generic methods and classes](lectures/lecture10.html), 4.5-4.7 <br> [Lecture 11: Generic methods, functors](lectures/lecture11.html), 4.8
 > Week 5 (June 15&ndash;19) | [Lecture 12: Analysis of Algorithms](lectures/lecture12.html), 5.1-5.3 <br> [Lecture 12a: Code Comments](lectures/lecture12a.html) <br> [Lecture 13: Big-O](lectures/lecture13.html), 5.4-5.8
 > Week 6 (June 22&ndash;26) | [Lecture 14: Collections, Iterators](lectures/lecture14.html), 6.1-6.3 <br> [Lecture 15: Generic Algorithms](lectures/lecture15.html), 6.4 <br> **Exam 1** |
-> Week 7 (June 29&ndash;July 3) |  |
+> Week 7 (June 29&ndash;July 3) | No class |
 > Week 8 (July 6&ndash;10) | [Lecture 16: Lists](lectures/lecture16.html), 6.5 <br> [Lecture 17: Parallel Programming with Threads](lectures/lecture17.html) | 
 > Week 9 (July 13&ndash;17) | [Lecture 18: Stacks and Queues](lectures/lecture18.html), 6.6 <br> [Lecture 19: Sets and Maps](lectures/lecture19.html), 6.7-6.8 | 
 > Week 10 (July 20&ndash;24) | [Lecture 20: Recursion](lectures/lecture20.html), 7.1, 7.3 <br> [Lecture 21: Proof by Induction](lectures/lecture21.html), 7.2 |
