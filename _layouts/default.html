@@ -3,15 +3,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>{{site.coursename}}: {{page.title}}</title>
-		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-		<script type="text/javascript" src="{{site.baseurl}}/js/cs-commons.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function() {
-				if ("{{page.artifact-name}}" !== "") {
-					cs_commons.init("{{site.baseurl}}", "{{page.artifact-name}}");
-				}
-			});
-		</script>
 		<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/site.css">
 		<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/syntax.css">
 	</head>
