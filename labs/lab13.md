@@ -1,42 +1,99 @@
 ---
 layout: default
-title: "Lab 13: Iterators, Interleaving"
+title: "Lab 13: Big-O"
 ---
 
-Getting started
-===============
+# Your task
 
-Download [CS201\_Lab13.zip](CS201_Lab13.zip). Import it into Eclipse (**File&rarr;Import...&rarr;Existing Projects into Workspace&rarr;Archive File**.) You should see a project called **CS201\_Lab13** in the package explorer.
+Find big-O upper bounds for the following code snippets.  In each, assume that `CODE` is something that completes in constant time (O(1)), and *N* is an integer value representing the problem size.  State your bound in terms of *N*.
 
-Your Task
-=========
+Write your answers in a text file (e.g., a file created with Notepad++).  For each answer, explain your reasoning.
 
-Your task is to implement two generic methods in the **Algorithm** class: **interleave** and **mergeSortedLists**. Each method takes references to two collections as parameters.
+As soon as you are done with your answer for the first problem, show your answer to the instructor or a tutor to get some feedback on your approach.
 
--   The **interleave** method takes two collections, uses iterators to traverse their elements, and returns a list in which the elements in the original collections are "interleaved". For example, if the collections are lists containing **(A, B, C)** and **(D, E, F)** respectively, the result will be a list containing **(A, D, B, E, C, F)**.
--   The **mergeSortedLists** method takes two sorted lists and returns a single list containing all of the elements in the two original lists, in sorted order. For example, if the original lists are **(1, 4, 5)** and **(2, 3, 6)** then the result list would be **(1, 2, 3, 4, 5, 6)**.
+Before you submit, show your work to the instructor or a tutor.
 
-Each method is accompanied by a detailed documentation comment describing how the method should work, and providing hints.
+You can check your answers against the [solutions](lab13soln.pdf).
 
-The **AlgorithmTest** JUnit test class has unit tests for each method. Take a look at the tests if you are not sure about how the method is intended to work.
+## Problem 1
+
+{% highlight java %}
+for (int i = 0; i < N*N; i++) {
+    CODE
+}
+{% endhighlight %}
+
+## Problem 2
+
+{% highlight java %}
+for (int i = 0; i < N; i++) {
+    CODE
+}
+for (int i = 0; i < N; i++) {
+    CODE
+}
+{% endhighlight %}
+
+## Problem 3
+
+{% highlight java %}
+for (int i = 0; i < N; i++) {
+    for (int j = 0; j < i; j++) {
+        CODE
+    }
+}
+{% endhighlight %}
+
+Note that the inner loop is dependent on the outer loop, so the inner loop executes a different number of iterations each time it is reached.  In your explanation, you should either:
+
+* Determine how many times `CODE` executes overall (analyzing both loops together): a series sum will be helpful
+* State how many times *on average* the inner loop executes when it is reached.
+
+## Problem 4
+
+{% highlight java %}
+for (int i = 0; i < 10000000; i++) {
+    CODE
+}
+{% endhighlight %}
+
+## Problem 5
+
+{% highlight java %}
+for (int i = 0; i < N; i++) {
+    for (int j = 0; j < i*i; j++) {
+        CODE
+    }
+}
+{% endhighlight %}
+
+This one is similar to Problem 3: the inner loop is dependent on the outer loop.
+
+## Problem 6
+
+{% highlight java %}
+for (int i = 1; i < N; i = i * 2) {
+    CODE
+}
+{% endhighlight %}
+
+Note that **i** is doubling on each loop iteration: how does that affect the number of times the loop will execute?
+
+## Problem 7
+
+{% highlight java %}
+for (int i = 0; i < N; i++) {
+    for (int j = 0; j < N; j++) {
+        for (int k = 0; k < N; k++) {
+            CODE
+        }
+    }
+}
+{% endhighlight %}
 
 Submitting
 ==========
 
-When you are done, submit the lab to the Marmoset server using either of the methods below.
-
-From Eclipse
-------------
-
-If you have the [Simple Marmoset Uploader Plugin](../resources.html) installed, select the project (**CS201\_Lab13**) in the package explorer and then press the blue up arrow button in the toolbar. Enter your Marmoset username and password when prompted.
-
-From a web browser
-------------------
-
-Save the project (**CS201\_Lab13**) to a zip file by right-clicking it and choosing
-
-> **Export...&rarr;Archive File**
-
-Upload the saved zip file to the Marmoset server as **lab13**. The server URL is
+Upload the text file containing your answers to the Marmoset server as **lab13**. The server URL is
 
 > <https://cs.ycp.edu/marmoset/>
