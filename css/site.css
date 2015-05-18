@@ -74,6 +74,7 @@ h1:before {
 }
 
 h1 {
+	margin-top: 32px;
 	border-top: 2px solid #262;
 	border-bottom: 2px solid #262;
 	font-size: 180%;
