@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lab 12: Benchmarking ArayList"
+title: "Lab 12: Benchmarking ArrayList"
 ---
 
 Getting Started
