@@ -308,7 +308,7 @@ General structure of a JUnit test class
 
 The test class's fields (member variables) store references to objects (generally, instances of the class being tested). These fields and the objects they point to are called the *test fixture*.
 
-A test class's **setUp** method creates the test fixture objects. This method is called automatically before each test method is called. It must be marked with the <**@Before*>\* annotation.
+A test class's **setUp** method creates the test fixture objects. This method is called automatically before each test method is called. It must be marked with the **@Before** annotation.
 
 The test methods call methods on the test fixture objects and check to see that the methods compute the correct result, typically by calling an *assertion method*. Assertion methods are methods defined by the JUnit framework specifically for checking that calls to methods in classes being tested compute the expected result. Each test method must be marked with the **@Test** annotation.
 
