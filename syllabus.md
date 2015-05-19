@@ -10,7 +10,7 @@ CS 201 - Fundamentals of Computer Science II
 
 Instructor | Email | Office hours
 ---------- | ----- | ------------
-[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | TBA
+[David Hovemeyer](http://faculty.ycp.edu/~dhovemey) | [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu) | By arrangement (email me)
 
 Course Description
 ------------------
