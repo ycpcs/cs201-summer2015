@@ -3,7 +3,7 @@ layout: default
 title: "Lab 3: Arrays"
 ---
 
-Start by downloading <CS201_Lab03.zip> and importing it into Eclipse. You should see a project called **CS201\_Lab03**.
+Start by downloading [CS201\_Lab03.zip](CS201_Lab03.zip) and importing it into Eclipse. You should see a project called **CS201\_Lab03**.
 
 Your task
 =========
