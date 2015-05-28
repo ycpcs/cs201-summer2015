@@ -19,6 +19,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
   <li><a href="https://cs.ycp.edu/cloudcoder">CloudCoder (practice problems)</a></li>
   <li><a href="practice/index.html">Practice Exams</a></li>
   <li><a href="examples/index.html">Example code</a></li>
+  <li><a href="https://docs.oracle.com/javase/8/docs/api/">JDK 8 API documentation</a></li>
 </ul>
 
 ## News
