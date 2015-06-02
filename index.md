@@ -24,6 +24,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 
 ## News
 
+* **Jun 2** - A solution to the first practice exam is available on the [Practice Exams](practice/index.html) page.
 * **May 28** - A practice exam has been posted on the [Practice Exams](practice/index.html) page.
 * **May 18** - All of the labs and assignments for the course have been posted on the [Labs](labs/index.html) and [Assignments](assign/index.html) pages.
 * **May 18** - Welcome!
