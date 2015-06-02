@@ -11,3 +11,4 @@ May 19 | [Point.zip](Point.zip) | `Point` class and JUnit test
 May 21 | [Point2.zip](Point2.zip) | `Point` class and JUnit test, demonstrating `this` keyword and constructors
 May 26 | [FileIO.zip](FileIO.zip) | File I/O, Exceptions, try/catch, try/finally
 May 28 | [GUI.zip](GUI.zip) | Example Model/View/Controller GUI
+June 2 | [ArrayLists.zip](ArrayLists.zip) | ArrayList example
