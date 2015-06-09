@@ -3,7 +3,7 @@ layout: default
 title: "Code Examples"
 ---
 
-This page has code examples.
+This page has code examples discussed in class.
 
 Date | File | Description
 ---- | ---- | -----------
