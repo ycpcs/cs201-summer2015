@@ -14,3 +14,4 @@ May 28 | [GUI.zip](GUI.zip) | Example Model/View/Controller GUI
 June 2 | [ArrayLists.zip](ArrayLists.zip) | ArrayList example
 June 9 | [CS201\_Lab08\_InheritingFieldsAndMethods.zip](CS201_Lab08_InheritingFieldsAndMethods.zip) | Partial implementation of [Lab 8](../labs/lab08.html) showing inheriting fields and methods from a superclass
 June 9 | [ObjectEquality.zip](ObjectEquality.zip) | Shows why == and the `equals` method can yield different results when comparing objects
+June 11 | [GenericMethodsAndFunctors.zip](GenericMethodsAndFunctors.zip) | Demonstrates `Comparable`, `Comparator`, and generic sorting
