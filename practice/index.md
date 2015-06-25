@@ -5,10 +5,12 @@ title: "Practice Exams"
 
 This page has links to practice exams.
 
-[Exam 1, Fall 2014](cs201-fall2014-exam1.pdf), [Programming zipfile](CS201_Exam01.zip), [Solution to written questions](cs201-fall2014-exam1-solution.pdf), [Solution to programming part](CS201_Exam01_Solution.zip).  Notes:
+**First practice exam**: [Exam 1, Fall 2014](cs201-fall2014-exam1.pdf), [Programming zipfile](CS201_Exam01.zip), [Solution to written questions](cs201-fall2014-exam1-solution.pdf), [Solution to programming part](CS201_Exam01_Solution.zip).  Notes:
 
 * All of the questions on this practice exam are fair game for Exam 1
 * For the programming part of the exam, the objective is to implement the `Ball` and `Model` classes such that all of the tests in `BallTest` and `ModelTest` pass.  A bonus objective is to get the tests in `AdvancedModelTest` to pass, which requires `Model` storing a collection of references to `Ball` objects.
 * You can run the `View` class as a Java application to see an animation which uses the `Ball` and `Model` classes
 
-[Exam 2, Fall 2014](cs201-fall2014-exam2.pdf), [Programming zipfile](CS201_Exam02.zip)
+**Second practice exam**: [Exam 2, Fall 2014](cs201-fall2014-exam2.pdf), [Programming zipfile](CS201_Exam02.zip)
+
+* For Exam 2, you can disregard Questions 4, 5, 6, and 7 from the second practice exam
