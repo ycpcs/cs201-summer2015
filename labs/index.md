@@ -9,8 +9,8 @@ Although labs are not graded, they are part of the quizzes, attendance,
 and participation component of the course grade.  Not completing
 and submitting the labs will negatively impact your course grade.
 
-Week | Lab | File
----- | --- | ----
+Week | Lab | File(s)
+---- | --- | -------
 Week 1 (May 18&ndash;22) | [Lab 1: Dog Years](lab01.html) | [CS201\_Lab01.zip](CS201_Lab01.zip)
 Week 1 (May 18&ndash;22) | [Lab 2: Coins Class](lab02.html) | [CS201\_Lab02.zip](CS201_Lab02.zip)
 Week 1 (May 18&ndash;22) | [Lab 3: Arrays](lab03.html) | [CS201\_Lab03.zip](CS201_Lab03.zip)
@@ -22,7 +22,7 @@ Week 3 (June 1&ndash;5) | [Lab 8: Inheriting Fields and Methods](lab08.html) | [
 Week 3 (June 1&ndash;5) | [Lab 9: Comparable, Sorting](lab09.html) | [CS201\_Lab09.zip](CS201_Lab09.zip)
 Week 4 (June 8&ndash;12) | [Lab 10: Using Generic Containers and Algorithms](lab10.html) | [CS201\_Lab10.zip](CS201_Lab10.zip)
 Week 4 (June 8&ndash;12) | [Lab 11: Functors](lab11.html) | [CS201\_Lab11.zip](CS201_Lab11.zip)
-Week 5 (June 15&ndash;19) | [Lab 12: Benchmarking ArrayList](lab12.html) | [CS201\_Lab12.zip](CS201_Lab12.zip)
+Week 5 (June 15&ndash;19) | [Lab 12: Benchmarking ArrayList](lab12.html) | [CS201\_Lab12.zip](CS201_Lab12.zip), [CS201\_Lab12\_Solution.zip](CS201_Lab12_Solution.zip)
 Week 5 (June 15&ndash;19) | [Lab 13: Big-O](lab13.html) | n/a
 Week 5 (June 15&ndash;19) | [Lab 14: Iterators, Interleaving](lab14.html) | [CS201\_Lab14.zip](CS201_Lab14.zip)
 Week 6 (June 22&ndash;26) | [Lab 15: Generic Algorithms](lab15.html) | [CS201\_Lab15.zip](CS201_Lab15.zip)
