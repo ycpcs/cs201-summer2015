@@ -18,3 +18,7 @@ This page has links to practice exams.
 **Practice final**: [Final Exam, Fall 2014](cs201-fall2014-final.pdf), [Programming zipfile](CS201_Final.zip)
 
 * When preparing for Exam 2, just do Questions 6 and 7
+
+**Exam 2 review quiz**: [Quiz](exam02_review.pdf), [Solution](exam02_review_solution.pdf)
+
+* This was given in class on Tuesday, July 7th
