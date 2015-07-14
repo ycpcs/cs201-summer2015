@@ -168,6 +168,7 @@ This queue shows the results of enqueuing (adding) "A", then "B", then "C" to th
 ### Preconditions and postconditions
 
 > Operation | Precondition | Postcondition
+> --------- | ------------ | -------------
 > add(e) | --- | e is new tail element
 > remove() | !isEmpty() | removes and returns head element
 > isEmpty | --- | returns true if empty, false if not
