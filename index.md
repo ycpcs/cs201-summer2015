@@ -24,6 +24,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 
 ## News
 
+* **Jul 28** - The [Schedule](schedule.html) has been updated slightly: [Lecture 25](lectures/lecture25.html) has been moved to the last week of class.  Also, the weeks for [labs](labs/index.html) 22, 24, and 25 have been changed.
 * **Jun 25** - Two practice exams (exam 2 and the final exam from Fall 2014) have been posted to the [Practice Exams](practice/index.html) page.  Note that only some of the questions will be relevant for Exam 2.
 * **Jun 25** - The [Schedule](schedule.html) has been updated (the discussion of [Lists](lectures/lecture16.html) will take place today).
 * **Jun 2** - A solution to the first practice exam is available on the [Practice Exams](practice/index.html) page.
